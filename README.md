@@ -1,5 +1,5 @@
 # VolSurface.xlsm
-This spreadsheet enables user to create table with implied volatility values for certain stock fetched from [yahoo finance](https://finance.yahoo.com/) in 3 simple steps.
+This spreadsheet enables user to create table with implied volatility values for certain stock fetched from [yahoo finance](https://finance.yahoo.com/) in several clicks.
 
 ## Usage
 
